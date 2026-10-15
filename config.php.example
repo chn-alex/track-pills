@@ -1,6 +1,6 @@
 <?php
 // Скопіюй цей файл як config.php та заповни власними даними.
-const BOT_TOKEN = 'ВСТАВ_ТОКЕН_ВІД_BOTFATHER';
+const BOT_TOKEN = 'TELEGRAM_BOT_TOKEN';
 const DB_HOST = 'localhost';
 const DB_NAME = 'назва_бази';
 const DB_USER = 'користувач_бази';
