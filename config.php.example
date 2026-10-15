@@ -1,0 +1,7 @@
+<?php
+// Скопіюй цей файл як config.php та заповни власними даними.
+const BOT_TOKEN = 'ВСТАВ_ТОКЕН_ВІД_BOTFATHER';
+const DB_HOST = 'localhost';
+const DB_NAME = 'назва_бази';
+const DB_USER = 'користувач_бази';
+const DB_PASS = 'пароль_бази';
