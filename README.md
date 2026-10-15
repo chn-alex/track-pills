@@ -1,4 +1,4 @@
-# Telegram-бот для відміток прийому таблеток
+# Telegram-бот для відміток прийому таблеток: @trackpillsbot
 
 PHP 7.4+, MySQL та Telegram Bot API.
 
